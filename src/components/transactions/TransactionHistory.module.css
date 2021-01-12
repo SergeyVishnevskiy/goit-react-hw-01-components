@@ -1,0 +1,23 @@
+.transaction {
+  width: 900px;
+  margin: 25px 0 0 0;
+}
+.transactionTable {
+  width: 900px;
+}
+.thead {
+  background-color: lightblue;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.tbody {
+  background-color: rgb(175, 241, 175);
+}
+.type {
+  width: 300px;
+  padding: 10px 0px 10px 100px;
+  text-align: left;
+}
+.type:first-letter {
+  text-transform: capitalize;
+}
